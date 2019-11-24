@@ -1,13 +1,5 @@
 # Serverless AKS Demos
-Serverless demo around AKS and Microsoft Azure
-
-# Kubernetes Ecosystem Playbook
-
-This repostitory recap all useful information on ecosystem of Kubernetes. 
-
-- [00 - General](https://github.com/cloudmelon/k8secosys/blob/master/00%20-%20General.md)
-- [01 - Helm](https://github.com/cloudmelon/k8secosys/blob/master/01%20-%20Helm.md)
-- [02 - Prometheus](https://github.com/cloudmelon/k8secosys/blob/master/02%20-%20Prometheus.md)
+This repostitory recap Serverless demo around AKS and Microsoft Azure
 
 ## Azure Kubernetes services ( AKS ) useful references : 
 

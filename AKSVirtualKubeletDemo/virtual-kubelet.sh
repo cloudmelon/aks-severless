@@ -95,3 +95,6 @@ apt-get update && apt-get install -y curl
 curl -L < IP of ACI >
 
 # Know more about Ingress go to : https://docs.microsoft.com/en-gb/azure/aks/ingress-basic
+
+
+

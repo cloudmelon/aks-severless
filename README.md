@@ -3,15 +3,15 @@ This repostitory recap Serverless demo around AKS and Microsoft Azure. AKS clust
 
 ## Demo 1 : Virtual Kubelet ( ACI )
 
-<img src="Images/Virtual Kubelet.PNG" alt="virtualKubelet" width="600px"/>
+<img src="Images/Virtual Kubelet.PNG" alt="virtualKubelet" width="500px"/>
 
 ## Demo 2 : KEDA
 
-<img src="Images/KEDA.PNG" alt="package management" width="600px"/>
+<img src="Images/KEDA.PNG" alt="package management" width="300px"/>
 
 ## Demo 3 : DataOps
 
-<img src="Images/DataOps.PNG" alt="package management" width="600px"/>
+<img src="Images/DataOps.PNG" alt="package management" width="850px"/>
 
 ## Azure Kubernetes services ( AKS ) useful references : 
 

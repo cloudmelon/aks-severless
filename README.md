@@ -7,7 +7,7 @@ This repostitory recap Serverless demo around AKS and Microsoft Azure. AKS clust
 
 ## Demo 2 : KEDA
 
-<img src="Images/KEDA.PNG" alt="package management" width="300px"/>
+<img src="Images/KEDA.PNG" alt="package management" width="500px"/>
 
 ## Demo 3 : DataOps
 

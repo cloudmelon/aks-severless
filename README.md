@@ -1,5 +1,17 @@
 # Serverless AKS Demos
-This repostitory recap Serverless demo around AKS and Microsoft Azure
+This repostitory recap Serverless demo around AKS and Microsoft Azure. AKS cluster combine Virtual Kubelet ( ACI ) and KEDA as well as message sender.
+
+## Demo 1 : Virtual Kubelet ( ACI )
+
+<img src="Images/Virtual Kubelet.PNG" alt="virtualKubelet" width="600px"/>
+
+## Demo 2 : KEDA
+
+<img src="Images/KEDA.PNG" alt="package management" width="600px"/>
+
+## Demo 3 : DataOps
+
+<img src="Images/DataOps.PNG" alt="package management" width="600px"/>
 
 ## Azure Kubernetes services ( AKS ) useful references : 
 
